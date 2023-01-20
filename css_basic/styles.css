@@ -19,4 +19,5 @@ article{
 aside{
     flex: 1;
     overflow-y: auto;
+    height: 8px;
 }
