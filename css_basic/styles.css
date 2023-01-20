@@ -2,12 +2,15 @@ body {
     display: flex;
     flex-direction: column;
     background-color: pink;
+    border: 6px;
 }
 main {
     display: flex;
     flex-direction: row;
     flex: auto;
     color: aliceblue;
+    height: auto;
+    width: auto;
 }
 article{
     flex: 2;
