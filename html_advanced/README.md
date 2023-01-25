@@ -2,4 +2,4 @@ In this project i will be builiding from scratch a webpage from a designer file 
 
 
 how the website will look like 
-![alt example](https://www.figma.com/file/yRdSGrt6hf1WYWIz8KV46f/Homepage?node-id=0%3A1&t=N97LW9VA4nsjGRHh-0.jpg)
+![alt example](https://www.figma.com/file/yRdSGrt6hf1WYWIz8KV46f/Homepage?node-id=0%3A1&t=N97LW9VA4nsjGRHh-0)
