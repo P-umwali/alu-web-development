@@ -1,2 +1,2 @@
 the css advanced project 
-which should like
+which should look like 
