@@ -2,4 +2,4 @@ In this project i will be builiding from scratch a webpage from a designer file 
 
 
 how the website will look like 
- https://user-images.githubusercontent.com/109439888/214020630-738bc53c-a165-4c25-9faf-bb230d5ae43a.png
+![alt example] https://user-images.githubusercontent.com/109439888/214020630-738bc53c-a165-4c25-9faf-bb230d5ae43a.png
